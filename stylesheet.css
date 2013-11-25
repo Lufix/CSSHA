@@ -74,11 +74,25 @@ code {
 	
 }
 
+img {
+	border-width: 0px;
+}
+
+
+.img {
+	float: left;
+	padding: 0px 10px 0px 0px;
+}
+
+.content {
+	clear: both;
+}
+
+
 .tralt {
 	
 	background-color: #F1F5E9;
-	
-	
+
 	
 }
 
